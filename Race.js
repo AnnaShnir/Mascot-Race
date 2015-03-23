@@ -3,7 +3,6 @@ var Mascot = function(name, food, endurance, tripFactor) {
     this.food = food;
     this.endurance = endurance;
     this.tripFactor = tripFactor;
-
 }
 
 var badger = new Mascot("Badger", "Bagel", 3, false);
