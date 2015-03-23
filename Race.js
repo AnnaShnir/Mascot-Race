@@ -10,5 +10,5 @@ while ( >= 0) {
 		console.log("Everyone has tied!");
 	} else if (#mascot <= 0) {
 		console.log(#mascot + " is our winner!");
-}
+	}
 }
